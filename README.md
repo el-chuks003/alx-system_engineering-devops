@@ -1,1 +1,1 @@
-Devops readme shell basics
+shell init files variables and expansions
